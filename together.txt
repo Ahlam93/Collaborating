@@ -1,0 +1,1 @@
+My capstone data analytics project is about customer segmentation according to their demographic data, my main goal is to understand the factors that influence customer purchases and study their loyalty by applying machine learning algorithms such as clustering models (Ahlam Shaqfa).
