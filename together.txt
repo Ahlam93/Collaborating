@@ -3,3 +3,5 @@ This is a required activity where me and my colleagues will write a brief about 
 My capstone data analytics project is about customer segmentation according to their demographic data, my main goal is to understand the factors that influence customer purchases and study their loyalty by applying machine learning algorithms such as clustering models (Ahlam Shaqfa).
 
 My capstone project aims to use machine learning techniques to develop predictive models for identifying coronary heart disease (CHD) risk factors on people, focusing on age and gender. I will be using a dataset sourced from multiple sources and evaluating model performance with key metrics (Bobby Rahman).
+
+My Capstone Project will be focussing on using Machine Learning prediciton algorithms such as xGradientBoosting and kNN to predict oil production in wells, as well as helping to understand where the best well spacing (location) is to drill new wells within a certain area (Layla Mahmood). 
